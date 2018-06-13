@@ -15,11 +15,11 @@ also be used as template for Python modules.
 
 Note: This skeleton file can be safely removed if not needed!
 """
-from __future__ import division, print_function, absolute_import
+from __future__ import absolute_import, division, print_function
 
 import argparse
-import sys
 import logging
+import sys
 
 from pre_commit_flake8_error_demo import __version__
 

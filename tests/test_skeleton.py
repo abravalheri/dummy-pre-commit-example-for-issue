@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pytest
+
 from pre_commit_flake8_error_demo.skeleton import fib
 
 __author__ = "Anderson Bravalheri"

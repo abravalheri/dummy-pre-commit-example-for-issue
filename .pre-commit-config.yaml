@@ -1,5 +1,6 @@
+repos:
 -   repo: git://github.com/pre-commit/pre-commit-hooks
-    sha: v1.3.0
+    rev: v1.3.0
     hooks:
     -   id: trailing-whitespace
     -   id: check-added-large-files
